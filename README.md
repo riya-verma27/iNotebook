@@ -1,6 +1,6 @@
 # Demonstration of iNotebook:
 
-https://github.com/user-attachments/assets/f37170e6-2b62-4d34-93d6-edd6b2be7884
+
 
 
 
