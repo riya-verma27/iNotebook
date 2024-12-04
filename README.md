@@ -1,5 +1,8 @@
 # Demonstration of iNotebook:
 
+https://github.com/user-attachments/assets/f37170e6-2b62-4d34-93d6-edd6b2be7884
+
+
 
 # iNotebook
 iNotebook is a web-based application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to manage their notes securely in the cloud. This app includes essential features like user authentication, note management, and account updates. It's a robust and intuitive solution for users to store and organize their notes anytime, anywhere.
