@@ -38,5 +38,3 @@ iNotebook is a web-based application built using the MERN stack (MongoDB, Expres
 ## Tools Used
 * Code Editor: Visual Studio Code
 * API Testing: Thunder Client
-* Version Control: Git & GitHub
-* Hosting: Render (or another platform used for deployment)# iNotebook_test
